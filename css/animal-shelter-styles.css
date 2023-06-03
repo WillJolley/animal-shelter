@@ -1,0 +1,63 @@
+body {
+  background-color: salmon
+}
+
+h2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+  float: right;
+}
+
+.dogs {
+  font-family: 'Trebuchet MS';
+  font-style: italic;
+  color: blue;
+  margin: 12px;
+  border: 10px solid fuchsia;
+  padding: 15px;
+}
+
+.cats {
+  font-family: Arial;
+  font-style: italic;
+  color: yellowgreen;
+  margin: 12px;
+  border: 10px solid fuchsia;
+  padding: 15px;
+}
+
+.birds {
+  font-family: Gill Sans;
+  font-style: italic;
+  color: wheat;
+  margin: 12px;
+  border: 10px solid fuchsia;
+  padding: 15px;
+}
+
+ul {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-size: 25px
+  float: left;
+}
+
+.dogs ul {
+  font-style: normal;
+}
+
+.cats ul {
+  font-style: normal;
+}
+
+.birds ul {
+  font-style: normal;
+}
+
